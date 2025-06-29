@@ -1,0 +1,1 @@
+Este programa em C implementa o algoritmo Bubble Sort para ordenar os caracteres de uma string inserida pelo usuário. O programa converte cada caractere para seu valor inteiro correspondente na tabela ASCII e exibe os valores ordenados.

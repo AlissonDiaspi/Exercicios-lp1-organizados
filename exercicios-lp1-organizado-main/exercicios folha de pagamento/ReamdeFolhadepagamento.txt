@@ -1,0 +1,4 @@
+1. calculoirpf.c
+Descrição: Calcula salário líquido com descontos de INSS, IRPF e benefícios.
+2. projetoempresa.c
+Descrição: Sistema completo de folha de pagamento com cálculo de encargos trabalhistas.

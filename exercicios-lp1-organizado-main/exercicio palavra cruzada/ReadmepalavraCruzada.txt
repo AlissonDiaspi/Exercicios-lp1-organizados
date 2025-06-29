@@ -1,0 +1,1 @@
+Este programa em C permite ao usuário criar um grid de palavras cruzadas simples. O usuário pode inserir palavras em posições específicas do grid, escolhendo entre direção horizontal ou vertical. O programa verifica se a palavra cabe no espaço selecionado e atualiza o grid conforme as entradas do usuário.

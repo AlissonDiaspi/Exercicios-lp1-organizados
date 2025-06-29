@@ -1,0 +1,1 @@
+Este programa implementa o método de Monte Carlo para estimar o valor de π (pi) através de simulação aleatória. O algoritmo gera pontos aleatórios dentro de um quadrado e verifica quantos caem dentro de um círculo inscrito, usando essa proporção para calcular π.

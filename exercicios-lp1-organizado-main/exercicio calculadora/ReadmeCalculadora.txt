@@ -1,0 +1,1 @@
+Este programa é uma calculadora que realiza operações matemáticas básicas (soma, subtração, multiplicação e divisão) com até três números, permitindo combinações entre diferentes operações.

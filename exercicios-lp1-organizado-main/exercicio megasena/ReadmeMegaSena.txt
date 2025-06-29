@@ -1,0 +1,1 @@
+Este programa simula um jogo da Mega Sena, permitindo ao usuário apostar 6 números e verificar se acertou os números sorteados aleatoriamente pelo sistema.

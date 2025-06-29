@@ -1,0 +1,1 @@
+Este programa simula passo a passo a solução do quebra-cabeça matemático "Torre de Hanói" para 3 e 4 discos, mostrando cada movimento necessário para transferir todos os discos de uma coluna para outra seguindo as regras do jogo.

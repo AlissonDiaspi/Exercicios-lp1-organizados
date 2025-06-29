@@ -1,0 +1,1 @@
+Este programa demonstra o uso do operador sizeof em C para verificar o tamanho em bytes de diferentes tipos de variáveis primitivas, além de exemplificar a precedência de operadores em expressões matemáticas.

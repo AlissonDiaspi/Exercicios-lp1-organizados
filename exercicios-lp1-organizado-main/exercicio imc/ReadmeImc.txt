@@ -1,0 +1,1 @@
+Este programa calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos pelo usuário, classificando o resultado de acordo com os padrões da Organização Mundial da Saúde (OMS).

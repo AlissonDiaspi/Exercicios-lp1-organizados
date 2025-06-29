@@ -1,0 +1,1 @@
+Este programa ilustra o uso dos operadores aritméticos básicos em C e demonstra a precedência de operadores em expressões matemáticas.
